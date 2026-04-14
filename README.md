@@ -1,6 +1,4 @@
-# Hello, I'm Jacopo Minniti 👋
-
-**Undergraduate Student // Junior AI Researcher**
+# Undergraduate Student // Junior AI Researcher
 
 [🌐 Website](https://jacopominniti.com/) | [🔗 LinkedIn](https://www.linkedin.com/in/jacopo-minniti/) | [✉️ Email](mailto:jacopo.minniti004@gmail.com)
 
